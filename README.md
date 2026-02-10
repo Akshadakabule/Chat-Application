@@ -24,15 +24,15 @@ This project helped me understand real-time communication, client–server inter
 - Socket.IO
 - HTML, CSS, JavaScript
 
-# Features:
-- Real-time messaging
-- Multiple users support
-- Simple UI
-
 #  How to Run:
   ```bash
   npm install
   node server.js
+
+# Features:
+- Real-time messaging
+- Multiple users support
+- Simple UI
 
 
 # Output:-
