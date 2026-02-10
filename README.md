@@ -30,11 +30,11 @@ This project helped me understand real-time communication, client–server inter
 - Simple UI
 
 #  How to Run:
-```bash
-npm install
-node server.js
+  ```bash
+  npm install
+  node server.js
+
 
 # Output:-
-
 
 <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/c9451ff4-f121-4d7f-ac7a-cfca9f6691cc" />
