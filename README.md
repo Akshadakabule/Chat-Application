@@ -13,28 +13,34 @@
 *MENTOR*: NEELA SANTOSH
 
 
-# Project Description:
+## Project Description:
 
 This project is a real-time chat application built using Node.js. It allows users to send and receive messages instantly through a web interface. The server handles user connections and message delivery in real time.The frontend is designed using HTML, CSS, and JavaScript, and it communicates with the backend to display live chat updates without refreshing the page.
 This project helped me understand real-time communication, client–server interaction, and basic full-stack development concepts.
 
-# Technologies Used:
+## Technologies Used:
 - Node.js
 - Express.js
 - Socket.IO
 - HTML, CSS, JavaScript
 
- *How to Run:*
-  ```bash
-  npm install
-  node server.js
-
-# Features:
+## Features:
 - Real-time messaging
 - Multiple users support
 - Simple UI
 
+## How to Run the Project:
+1. Install dependencies:
+   ```bash
+   npm install
 
-# Output:-
+2. Start the server:
+   node server.js
+
+3.Open the application in your browser:
+  http://localhost:3000
+  
+
+## Output:-
 
 <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/c9451ff4-f121-4d7f-ac7a-cfca9f6691cc" />
